@@ -1,0 +1,10 @@
+C:\DevWPF\0BaseWpfFramework\BaseSolution\WebApiEndPoint\bin\Debug\WebApiEndPoint.dll
+C:\DevWPF\0BaseWpfFramework\BaseSolution\WebApiEndPoint\bin\Debug\WebApiEndPoint.pdb
+C:\DevWPF\0BaseWpfFramework\BaseSolution\WebApiEndPoint\bin\Debug\Newtonsoft.Json.dll
+C:\DevWPF\0BaseWpfFramework\BaseSolution\WebApiEndPoint\bin\Debug\System.Net.Http.Formatting.dll
+C:\DevWPF\0BaseWpfFramework\BaseSolution\WebApiEndPoint\bin\Debug\Newtonsoft.Json.xml
+C:\DevWPF\0BaseWpfFramework\BaseSolution\WebApiEndPoint\bin\Debug\System.Net.Http.Formatting.xml
+C:\DevWPF\0BaseWpfFramework\BaseSolution\WebApiEndPoint\obj\Debug\WebApiEndPoint.csprojAssemblyReference.cache
+C:\DevWPF\0BaseWpfFramework\BaseSolution\WebApiEndPoint\obj\Debug\WebApiEndPoint.csproj.CopyComplete
+C:\DevWPF\0BaseWpfFramework\BaseSolution\WebApiEndPoint\obj\Debug\WebApiEndPoint.dll
+C:\DevWPF\0BaseWpfFramework\BaseSolution\WebApiEndPoint\obj\Debug\WebApiEndPoint.pdb

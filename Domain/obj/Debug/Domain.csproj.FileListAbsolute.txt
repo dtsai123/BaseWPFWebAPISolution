@@ -1,0 +1,11 @@
+C:\DevWPF\0BaseWpfFramework\BaseSolution\Domain\bin\Debug\Domain.dll
+C:\DevWPF\0BaseWpfFramework\BaseSolution\Domain\bin\Debug\Domain.pdb
+C:\DevWPF\0BaseWpfFramework\BaseSolution\Domain\bin\Debug\AutoMapper.dll
+C:\DevWPF\0BaseWpfFramework\BaseSolution\Domain\bin\Debug\Dapper.dll
+C:\DevWPF\0BaseWpfFramework\BaseSolution\Domain\bin\Debug\AutoMapper.pdb
+C:\DevWPF\0BaseWpfFramework\BaseSolution\Domain\bin\Debug\AutoMapper.xml
+C:\DevWPF\0BaseWpfFramework\BaseSolution\Domain\bin\Debug\Dapper.xml
+C:\DevWPF\0BaseWpfFramework\BaseSolution\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\DevWPF\0BaseWpfFramework\BaseSolution\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\DevWPF\0BaseWpfFramework\BaseSolution\Domain\obj\Debug\Domain.dll
+C:\DevWPF\0BaseWpfFramework\BaseSolution\Domain\obj\Debug\Domain.pdb
